@@ -22,7 +22,7 @@ Exploring technology, building new skills, and learning along the way.
   <a href="https://github.com/jsnpoh">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=jsnpoh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats.vercel.app/api?username=jsnpoh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
       alt="Jason's GitHub Statistics"
     />
   </a>

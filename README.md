@@ -1,14 +1,14 @@
 <div align="center">
 
-<h1>Jason Poh</h1>
+<h1>JSNPOH</h1>
 
 <p>
-Computer Science Undergraduate<br>
+Year 2 Computer Science Undergraduate<br>
 National University of Singapore
 </p>
 
 <p>
-Exploring technology, building new skills, and learning along the way.
+Exploring technology, building new skills, and learning along the way!
 </p>
 
 </div>

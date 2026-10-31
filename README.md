@@ -43,10 +43,10 @@ Exploring technology, building new skills, and learning along the way!
 ### 👋 About Me
 
 - 🎓 **Education:** Year 2 Computer Science @ NUS
-- 💻 **Interests:** Networking, Computer Graphics & Artificial Intelligence
-- 🚀 **Currently Working On:** ...
-- 🌱 **Currently Learning:** abc
-- 📍 **Location:** Singapore
+- 💻 **Interests:** Networking & Distributed Systems, Computer Graphics & Artificial Intelligence
+- 🚀 **Currently Working On:** NOTHING
+- 🌱 **Currently Learning:** NOTHING
+- 📍 **Location:** Singapore, Yishun
 
 <br>
 
@@ -58,7 +58,7 @@ To be updated
 
 ### 📝 My Blog Posts
 
-- [Shiokie](https://shiokie.com) — To be updated
+- [Shiokie](https://shiokie.com/404) — To be updated
 
 <br>
 
